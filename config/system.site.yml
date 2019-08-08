@@ -1,7 +1,7 @@
 uuid: dcdd4458-9d11-4cf8-8d43-df61cf0ba3d8
 name: pantheon-circleci
 mail: kristin.brinner@gmail.com
-slogan: ''
+slogan: 'Testing out branching with better branch name'
 page:
   403: ''
   404: ''
