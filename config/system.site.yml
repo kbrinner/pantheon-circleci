@@ -1,0 +1,14 @@
+uuid: dcdd4458-9d11-4cf8-8d43-df61cf0ba3d8
+name: pantheon-circleci
+mail: kristin.brinner@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
